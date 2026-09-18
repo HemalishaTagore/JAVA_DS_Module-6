@@ -4,22 +4,52 @@
 To write a C program to implement Tower of Hanoi
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start the program.
+2. Read an integer from the user.
+3. Divide the number by 10 repeatedly and increment the count.
+4. Continue until the number becomes 0.
+5. Display the number of digits and stop the program.
 
 ## Program:
 ```
 /*
-Program to to count the number of digits in an integer
-Developed by: 
-RegisterNumber:  
+Program to count the number of digits in an integer
+Developed by: HEMALISHA T
+RegisterNumber: 212225040123
 */
+
+import java.util.Scanner;
+
+class CountDigits {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter an integer: ");
+        int num = sc.nextInt();
+
+        int count = 0;
+        int n = Math.abs(num);
+
+        if (n == 0) {
+            count = 1;
+        } else {
+            while (n > 0) {
+                n = n / 10;
+                count++;
+            }
+        }
+
+        System.out.println("Number of digits: " + count);
+
+        sc.close();
+    }
+}
 ```
 
 ## Output:
+<img width="218" height="72" alt="image" src="https://github.com/user-attachments/assets/7c9a99dd-e0d1-4336-aa19-f84e319bdde2" />
 
 
 
