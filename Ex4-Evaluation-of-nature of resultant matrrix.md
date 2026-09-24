@@ -1,5 +1,5 @@
 # Ex4 You are given a Java program that performs matrix addition. If Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension, what will be the nature (even/odd/mixed) of the resulting matrix?
-## DATE:
+## DATE:11/08/2026
 ## AIM:
 To write a java function to evaluate weather the given Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension and find the nature of resultant matrrix.
 
@@ -76,7 +76,8 @@ class MatrixAddition {
 
 ## Output:
 
-<img width="357" height="515" alt="image" src="https://github.com/user-attachments/assets/3854e000-5877-4559-9a46-b59ce2f6438c" />
+<img width="662" height="905" alt="image" src="https://github.com/user-attachments/assets/e3bbe239-81ba-4f7f-950a-e03f8b7a6b73" />
+
 
 
 ## Result:
