@@ -1,5 +1,5 @@
 # EX3 Write a program to count the number of digits in an integer.
-## DATE:
+## DATE: 11/08/2026
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -49,7 +49,8 @@ class CountDigits {
 ```
 
 ## Output:
-<img width="218" height="72" alt="image" src="https://github.com/user-attachments/assets/7c9a99dd-e0d1-4336-aa19-f84e319bdde2" />
+<img width="822" height="353" alt="image" src="https://github.com/user-attachments/assets/0a6a1649-d8f2-424f-b2dd-e5fb8d7ed8bf" />
+
 
 
 
