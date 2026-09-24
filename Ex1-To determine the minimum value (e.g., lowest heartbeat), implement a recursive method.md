@@ -1,5 +1,5 @@
 # EX 1 You’re creating a health monitoring device which stores several sensor readings in an array. To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-## DATE:
+## DATE: 11/08/2026
 ## AIM:
 To write a JAVA program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
 
@@ -53,7 +53,8 @@ class MinimumRecursive {
 ```
 
 ## Output:
-<img width="336" height="208" alt="image" src="https://github.com/user-attachments/assets/589ceab4-107b-424a-9a34-d64321a1eb5f" />
+<img width="671" height="351" alt="image" src="https://github.com/user-attachments/assets/cff380e8-5638-4475-ab11-6dcae7bb41ac" />
+
 
 
 
