@@ -1,5 +1,5 @@
 # Ex2 Count how many times a number appears in an array recursively.
-## DATE: 14/08/2026
+## DATE: 11/08/2026
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
 ## Algorithm
@@ -59,7 +59,8 @@ class CountRecursive {
 
 ## Output:
 
-<img width="283" height="262" alt="image" src="https://github.com/user-attachments/assets/97f60edc-487d-43b0-94fa-160530854d78" />
+<img width="830" height="497" alt="image" src="https://github.com/user-attachments/assets/176c44a9-0e66-4ebe-b434-28581952e19e" />
+
 
 
 ## Result:
